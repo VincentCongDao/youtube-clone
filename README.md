@@ -1,3 +1,10 @@
+Social Links:
+[LinkedIn](https://www.linkedin.com/in/trong-dao-52168410a/)
 
+Wireframe:
+Next.JS
+Styling:
+CSS
 
-Credit for this project: (JavaScript Mastery) to help out with this project
+Credit to [RapidAPI](https://rapidapi.com/hub) and [Youtube by Glavier](https://rapidapi.com/user/Glavier)
+
