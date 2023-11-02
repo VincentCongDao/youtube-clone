@@ -1,7 +1,6 @@
 ## Live Demo
 This youtube API is free version, so it only have 50 tokens while it means only can able to search 50 times per day.
 
-![Youtube Demo]()
 [Live](https://youtube-clone-nine-omega.vercel.app/)
 
 ## Tech Stack  
